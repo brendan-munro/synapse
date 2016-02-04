@@ -1,3 +1,5 @@
+// Package synapse is a simple wrapper around http.Handler to allow the use of a
+// context.Context for a given request.
 package synapse
 
 import (
